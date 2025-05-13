@@ -1,107 +1,41 @@
-Skip to content
-Navigation Menu
-24900753
-Exp-3
+# Exp - 3 RAILWAY RESERVATION SYSTEM
 
-Type / to search
-Code
-Pull requests
-Actions
-Projects
-Security
-Insights
-Owner avatar
-Exp-3
-Public
-forked from RavindharNV/Exp-3
-24900753/Exp-3
-Go to file
-t
-This branch is 1 commit ahead of RavindharNV/Exp-3:main.
-Name		
-24900753
-24900753
-Update README.md
-cd55282
- · 
-12 hours ago
-README.md
-Update README.md
-12 hours ago
-Repository files navigation
-README
-Exp - 3 RAILWAY MANAGEMENT SYSTEM
-AIM:
-To draw the UML diagram for Railway Management System.
+# AIM : To develop the Online Ticket Reservation System using Star UML tool.
 
-SRS (Procedure):
-Create the following diagrams in StarUML:
+# SRS (Procedure) :
 
-◉ Use Case Diagram
+1. Step 1 - Open StarUML and start a new project.
+2. Step 2 - Name the project based on the system (e.g., ATM, Library).
+3. Step 3 - Identify actors and use cases from the system requirements.
+4. Step 4 - Choose and draw diagrams (Use Case, Class, Sequence, etc.).
+5. Step 5 - Add elements using the toolbox and connect them properly.
+6. Step 6 - Label all components clearly and meaningfully.
+7. Step 7 - Save and export diagrams as images or PDF.
 
-◉ Class Diagram
+# DIAGRAMS:
 
-◉ Activity Diagram
+### DIAGRAM 1 - USE CASE
 
-◉ Package Diagram
+![usecase](https://github.com/user-attachments/assets/088e5b18-a6bc-4714-91b8-7dde88be9037)
 
-◉ Communication Diagram
+### DIAGRAM 2 - CLASS
+![class](https://github.com/user-attachments/assets/de617dda-a461-4e8c-88b2-c7142115887b)
 
-◉ Sequence Diagram
+### DIAGRAM 3 - ACTIVITY
 
-DIAGRAMS:
-◉ Use Case Diagram:
+![activity](https://github.com/user-attachments/assets/10853226-6347-417b-a6c5-e190e0b1ef2e)
 
-image
+### DIAGRAM 4 - SEQUENCE
 
-◉ Class Diagram:
+![sequence](https://github.com/user-attachments/assets/3d4e85f2-93a1-486c-947b-ab6ac478b016)
 
-image
+### DIAGRAM 5 - PACKAGE
 
-◉ Activity Diagram:
+![package](https://github.com/user-attachments/assets/59df388f-3390-466d-a8a5-c2aec5c1b3ac)
 
-image
+### DIAGRAM 6 - COMMUNICATION
 
-◉ Package Diagram:
+![communication](https://github.com/user-attachments/assets/aee932b6-e399-4c6b-b83b-aa8b7c6a3f14)
 
-image
-
-◉ Communication Diagram:
-
-image
-
-◉ Sequence Diagram:
-
-image
-
-RESULT:
-Thus the program is verified succeccfully.
-
-About
-No description, website, or topics provided.
-Resources
- Readme
- Activity
-Stars
- 0 stars
-Watchers
- 0 watching
-Forks
- 0 forks
-Report repository
-Releases
-No releases published
-Packages
-No packages published
-Footer
-© 2025 GitHub, Inc.
-Footer navigation
-Terms
-Privacy
-Security
-Status
-Docs
-Contact
-Manage cookies
-Do not share my personal information
-24900753/Exp-3
+# RESULT:
+Thus, the Online Ticket Reservation System was created successfully.
